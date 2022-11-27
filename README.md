@@ -1,8 +1,8 @@
 # Índice - Teste Lemon Shortlinks
-* [Infraestrutura de Nuvem](Infraestrutura-de-Nuvem)
-* [Custos - Infra AWS](Custos-Infra-AWS)
-* [Camadas de Código](Camadas-de-Codigo)
-* [Estrutura de Dados](Estrutura-de-Dados)
+* [Infraestrutura de Nuvem](#Infraestrutura-de-Nuvem)
+* [Custos - Infra AWS](#Custos-Infra-AWS)
+* [Camadas de Código](#Camadas-de-Codigo)
+* [Estrutura de Dados](#Estrutura-de-Dados)
 
 # Infraestrutura de Nuvem
 ![Diagrama - AWS Infra](https://user-images.githubusercontent.com/5217635/204121771-cdc4f0ce-6f1a-47db-8923-646794b0fc1f.png)
