@@ -1,8 +1,9 @@
 # Índice - Teste Lemon Shortlinks
 * [Infraestrutura de Nuvem](#Infraestrutura-de-Nuvem)
-* [Custos - Infra AWS](#Custos-Infra-AWS)
-* [Camadas de Código](#Camadas-de-Codigo)
+* [Custos Infra AWS](#Custos-Infra-AWS)
+* [Camadas de Código](#Camadas-de-Código)
 * [Estrutura de Dados](#Estrutura-de-Dados)
+* [Comparativo](#Comparativo)
 
 # Infraestrutura de Nuvem
 ![Diagrama - AWS Infra](https://user-images.githubusercontent.com/5217635/204121771-cdc4f0ce-6f1a-47db-8923-646794b0fc1f.png)
@@ -57,3 +58,16 @@ LambdaGet
 ![image](https://user-images.githubusercontent.com/5217635/204122719-b8add165-6f1b-4a39-9ec8-b01f21790376.png)
 
 # Estrutura de Dados
+![image](https://user-images.githubusercontent.com/5217635/204164842-bea85a8b-710d-4bb5-9f2e-a2334fe6cf4b.png)
+
+# Comparativo
+Comparando o preço estimado da aplicação com os preços cobrados pelo bit.ly e short.io com os recursos e volumetria desejadas (vide abaixo), é mais eficiente desenvolver e implantar a aplicação.
+![image](https://user-images.githubusercontent.com/5217635/204165225-4274d0a3-6a57-43c8-a8db-f01703b537ff.png)
+![image](https://user-images.githubusercontent.com/5217635/204165228-be6c558a-80ea-4dc8-ad8e-569d92de11dd.png)
+
+Serviço | Valor
+--- | ---
+Lambda	| $0,4454445168
+DynamoDB	| $0,1527625
+API Gateway	| $1
+Custo Total	| $1,598207017
