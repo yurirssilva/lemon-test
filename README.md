@@ -8,7 +8,7 @@
 # Infraestrutura de Nuvem
 ![Diagrama - AWS Infra](https://user-images.githubusercontent.com/5217635/204121771-cdc4f0ce-6f1a-47db-8923-646794b0fc1f.png)
 
-# Custos - Infra AWS
+# Custos Infra AWS
 ## Custos Lambda
 
 Duration	| Requests | Memory	| Total Compute	| Compute Charges	| Total Compute * Charges	| Charge/Request	| Charge/Request * Requests 	| Total Cost
